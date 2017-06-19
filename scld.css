@@ -1,0 +1,26 @@
+*{
+	font-family: 'Anton', sans-serif;
+}
+
+img {box-sizing: 400px;
+	margin: 5px;
+
+}
+
+button.enterButton{
+	color: blue;
+}
+button.play{
+	color: green;
+}
+button.pause{
+	color: red;
+}
+
+html { 
+  background: url(images/l5.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
